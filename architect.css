@@ -11,6 +11,9 @@
 
    
 }
+body{
+    margin: 0;
+}
 .text-lightgray{
     color: #727272;
 }
