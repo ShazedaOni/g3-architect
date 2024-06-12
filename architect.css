@@ -148,6 +148,33 @@ main {
 .sponsors-img img {
     width: 165px  ;
 }
+.features {
+    display: flex;
+    margin-top: 100px;
+    gap: 100px;
+}
+.feature-content .card{
+    border-radius: 8px;
+    padding: 13px;
+    margin-bottom: 20px;
+    background-color: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, .06) ;
+}
+.feature-content .Section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+.ten-year{
+    width: 342px;
+    border-radius: 8px;
+    background-color: #FF900E;
+    color: #FFF;
+    padding: 40px;
+}
+.ten-year h2 {
+    font-size: 2.8rem;
+} 
+
 
 
 @media screen and (max-width: 576px) {
